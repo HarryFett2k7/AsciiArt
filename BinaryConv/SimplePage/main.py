@@ -18,4 +18,4 @@ if itob:
 if btoi:
     number = st.text_input("Enter binary value: ", value = 1)
     integer = int(number, 2)
-    st.markdown("Integer is: ", integer)
+    st.markdown("Integer is: ", str(integer))
