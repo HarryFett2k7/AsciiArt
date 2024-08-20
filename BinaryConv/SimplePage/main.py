@@ -1,5 +1,4 @@
 import streamlit as st
-from PIL import image
 
 st.header("Binary Convertor", divider="rainbow" )
 st.subheader("A simple tool to convert numbers to and from binary.")
